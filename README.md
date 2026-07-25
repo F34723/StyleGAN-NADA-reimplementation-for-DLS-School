@@ -5,12 +5,4 @@
 * **Базовая модель:** StyleGAN2-FFHQ (Config-F) от Rosinality.
 * **Оптимизированные веса стилей:** Доступны в репозитории [Hugging Face Hub (F34723/stylegan2-nada-weights)](https://huggingface.co/F34723/stylegan2-nada-weights).
 
-<img src="images/person_1_all_styles.png" width="100%">
-<img src="images/person_2_all_styles.png" width="100%">
-<img src="images/person_3_all_styles.png" width="100%">
-<img src="images/person_4_all_styles.png" width="100%">
-<img src="images/person_5_all_styles.png" width="100%">
-<img src="images/person_6_all_styles.png" width="100%">
-<img src="images/person_7_all_styles.png" width="100%">
-<img src="images/person_9_all_styles.png" width="100%">
-<img src="images/person_10_all_styles.png" width="100%">
+<img src="images/all_styles.png" width="100%">
