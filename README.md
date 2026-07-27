@@ -42,7 +42,7 @@
 <p align="center"><b>Anime</b></p>
 <img src="images/anime.jpg" width="1024"><br>
 
-<p align="center"><b>Monalisa</b></p>
+<p align="center"><b>Mona Lisa</b></p>
 <img src="images/monalisa.jpg" width="1024"><br>
 
 
